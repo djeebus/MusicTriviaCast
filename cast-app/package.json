@@ -1,0 +1,15 @@
+{
+  "description": "Chromecast receiver app for music trivia",
+  "repository": "",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.2",
+    "jquery": "^2.1.4",
+    "knockout": "^3.3.0",
+    "merge2": "^0.3.6",
+    "typescript": "^1.6.2"
+  },
+  "devDependencies": {
+    "gulp-useref": "^2.0.0"
+  }
+}
